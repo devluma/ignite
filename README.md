@@ -14,8 +14,8 @@ Rocketseat Ignite Course All Projects
 
 **ReactJS**
 
-- Chapter 1 -> ... ❌
-- Chapter 2 -> ... ❌
+- Chapter 1 -> Start of ReactJS Fundamentals and First Project with ReactJS ✔️
+- Chapter 2 -> First Web Application with ReactJS ❌
 - Chapter 3 -> ... ❌
 - Chapter 4 -> ... ❌ 
 - Chapter 5 -> ... ❌
